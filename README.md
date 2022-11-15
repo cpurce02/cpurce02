@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Colter
-- 🎓 I'm attending Cal Poly SLO
+- 🎓 I'm attending **Cal Poly SLO**
 - ⌨️ These are my repositories that I have submitted for my CSC courses
 
 <!---
